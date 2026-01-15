@@ -50,3 +50,6 @@ A modern, elegant interior design application built with Flutter that brings bea
 
 ## 👤 Author
 **Adebayo Wariz**  
+
+### 📧 Contact
+Whatsapp: +234 702 513 6608
