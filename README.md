@@ -25,3 +25,7 @@ A modern, elegant interior design application built with Flutter that brings bea
 ---
 
 ## 🔧 Tools and Libraries Used
+
+---
+
+## ⚙️ How It Works
