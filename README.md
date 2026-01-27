@@ -47,6 +47,7 @@ The app serves three primary user types:
 
 ## 🚀 Installation
 ### 🔐 User Management & Authentication
+### 🏠 Room Management
 
 ---
 
