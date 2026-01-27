@@ -24,6 +24,7 @@ The app serves three primary user types:
 ### 🏠 Room Management
 ### 🔔 Additional Features
 ### 🔔 Additional Features
+### Architecture Pattern
 
 ---
 
