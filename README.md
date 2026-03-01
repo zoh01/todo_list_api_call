@@ -33,7 +33,7 @@ The app serves three primary user types:
 ---
 
 ## 📱 App Preview
-The app serves three primary user types:
+
 ---
 
 ## 🚀 Installation
