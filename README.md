@@ -20,7 +20,6 @@ A modern, elegant interior design application built with Flutter that brings bea
 
 ## ✨ Features
 The app serves three primary user types:
-### 🔐 User Management & Authentication
 
 ---
 
