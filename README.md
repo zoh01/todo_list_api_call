@@ -36,7 +36,6 @@ The app serves three primary user types:
 
 ## ⚙️ How It Works
 1. ### Core Technologies
-2. ### Backend & Database
 
 ---
 
