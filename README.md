@@ -8,8 +8,6 @@
 
 A modern, elegant interior design application built with Flutter that brings beautiful design inspiration to your fingertips.
 
-[Features](#-features) • [Installation](#-installation) • [Architecture](#-my-approach) • [Tech Stack](#-tools-and-libraries-used)
-
 
 ---
 
