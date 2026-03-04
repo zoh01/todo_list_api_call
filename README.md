@@ -1,7 +1,5 @@
 # todo_api
 
-<div align="center">
-
 ---
 
 ## 👤 Author
