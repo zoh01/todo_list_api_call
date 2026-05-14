@@ -17,6 +17,3 @@ Distributed under the MIT License. See LICENSE file for more information.
       
       Copyright (c) 2025 [Adebayo Wariz]
       
-      Permission is hereby granted, free of charge, to any person obtaining a copy
-      of this software and associated documentation files (the "Software"), to deal
-
